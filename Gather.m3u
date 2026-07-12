@@ -1,4 +1,12 @@
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/https://live.douyin.com/798171553588&douyin&logo" group-title="•抖音「游戏」",liu
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/https://live.douyin.com/682251805503&douyin&logo" group-title="抖音",无忧小老虎
+https://cdn-3.ttvb.eu.org/douyin/682251805503
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/https://live.douyin.com/798171553588&douyin&logo" group-title="抖音",liu
 https://cdn-3.ttvb.eu.org/douyin/798171553588
-#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/https://live.douyin.com/61771419288&douyin&logo" group-title="•抖音「游戏」",优雅罗宾
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/https://live.douyin.com/61771419288&douyin&logo" group-title="抖音",优雅罗宾
 https://cdn-3.ttvb.eu.org/douyin/61771419288
+
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/https://www.huya.com/chenzihao&huya&logo" group-title="虎牙",陈子豪
+https://cdn-3.ttvb.eu.org/huya/chenzihao
+
+#EXTINF:-1 tvg-logo="https://live.yang-1989.eu.org/i/https://www.douyu.com/3168536&douyu&logo" group-title="斗鱼",Xleft小叮当
+https://cdn-3.ttvb.eu.org/douyu/3168536
